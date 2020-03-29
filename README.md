@@ -20,6 +20,7 @@ The following is my NLP related projects
     
     This project attempt to find important documents base on user query. I make use of following techniques:
     - FastText
+    - Spacy
     - Degree Centrality
     - Closeness Centrality
     - Eigenvector Centrality
